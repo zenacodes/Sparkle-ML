@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Install
-!pip install scikit-learn pandas -q
+
 
 # Import
 import pandas as pd
